@@ -21,3 +21,15 @@ Crie uma branch para sua nova funcionalidade (git checkout -b feature/nova-funci
 Commit suas mudanças (git commit -am 'Adicionar nova funcionalidade').
 Push para a branch (git push origin feature/nova-funcionalidade).
 Crie um Pull Request.
+
+# Versões das bibliotecas usadas nesse projeto
+-------------------- | ----------
+     Biblioteca      |   Versão  
+-------------------- | ----------
+Matplotlib           |      3.8.2
+NumPy                |     1.26.2
+Pandas               |      2.1.2
+Scikit-Learn         |      1.3.2
+Seaborn              |     0.13.0
+
+Versão do Python: 3.12.0
